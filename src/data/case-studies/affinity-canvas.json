@@ -1,0 +1,39 @@
+{
+  "id": "affinity-canvas",
+  "title": "Affinity Canvas",
+  "client": "Stagebase",
+  "year": "2022",
+  "role": "Lead Product Designer",
+  "duration": "6 months",
+  "team": "2 Product Managers, 4 Engineers, UX Researcher",
+  "challenge": "Small business lenders struggled to efficiently evaluate loan applications due to disconnected tools and manual processes. This led to slower decision-making, inconsistent evaluations, and missed opportunities to serve small businesses effectively.",
+  "solution": "We created Affinity Canvas, a unified workspace that brings together all the critical information lenders need to evaluate applications. The platform combines automated data collection with intuitive visualization tools, enabling lenders to make faster, more informed decisions.",
+  "impact": [
+    "Reduced loan evaluation time by 60%",
+    "Increased application processing capacity by 45%",
+    "Improved decision consistency across lending teams",
+    "Decreased training time for new underwriters by 40%"
+  ],
+  "process": [
+    {
+      "title": "Research & Discovery",
+      "description": "We conducted extensive interviews with lenders, analyzed their existing workflows, and identified key pain points in the loan evaluation process. This research revealed that lenders were spending excessive time switching between tools and manually gathering information.",
+      "image": "/assets/case-studies/affinity-canvas/research.jpg"
+    },
+    {
+      "title": "Information Architecture",
+      "description": "Working closely with lenders, we organized loan application data into logical groupings that aligned with their evaluation process. This formed the foundation for our unified canvas approach.",
+      "image": "/assets/case-studies/affinity-canvas/architecture.jpg"
+    },
+    {
+      "title": "Prototyping & Testing",
+      "description": "We created interactive prototypes and conducted usability testing with lenders to refine the interface. This iterative process helped us optimize the layout and interaction patterns for maximum efficiency.",
+      "image": "/assets/case-studies/affinity-canvas/prototype.jpg"
+    },
+    {
+      "title": "Implementation & Rollout",
+      "description": "The platform was developed using a modular architecture to ensure scalability. We rolled out features incrementally, gathering feedback and making improvements based on real-world usage.",
+      "image": "/assets/case-studies/affinity-canvas/implementation.jpg"
+    }
+  ]
+}
